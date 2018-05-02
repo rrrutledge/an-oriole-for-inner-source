@@ -1,7 +1,7 @@
 # An Oriole for Inner Source
 45 min
 
-# Abstract
+## Abstract
 Inner source is the application of open source methodologies to internally-developed software.
 While simple to define, inner source can be difficult to explain and implement successfully.
 This presentation introduces the key terms, concepts, and principles for effective inner sourcing along with explanations and real examples.
@@ -9,12 +9,12 @@ It is content that is accessible to newcomers while at the same time refreshing 
 The same information in this presentation is also delivered as an O’Reilly Oriole, available freely at https://www.safaribooksonline.com/oriole/.
 We’ll review the Oriole, how to use it, and other Orioles related to inner source that are on the way.
 
-# Background
+## Background
 There are many individuals that are excited about inner source.
 They share their experience in [the InnerSource Commons](http://innersourcecommons.org/) and other public locations.
 In my experience it's been reasonably difficult to share things that are directly usable by other inner source practitioners.
 
-# Goals
+## Goals
 The goal of this presentation is to begin to set guildines, structure, and vocabulary for the industry conversation around inner source.
 We'll present common terms that all can use when describing inner source.
 Having this common vocabulary is a tangible first step to speaking, working, and building things that all inner source practitioners can use.
@@ -26,25 +26,25 @@ After this presentation, the attendees should understand:
 * how to view the learning path videos.
 * how to express interest in working on any future segments in the learning path.
 
-# Audience
+## Audience
 This presentation will be given at [the ISC Spring Summit](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2018-agenda/).
 It is intended for anyone interested in inner source whether novice or expert.
 
-# Outline
+## Outline
 
-## Point out the need for training to exist
+### Point out the need for training to exist
 
 shared vocabulary
 Centralized location of the material
 
-## Present the principles of good training
+### Present the principles of good training
 
 we've tried hard to propose things that are modular and fundamental
 we need modular training (just like modular projects)
 What is the purpose of the learning path?
 content delivered two ways: video and text
 
-## Share the actual training that is available
+### Share the actual training that is available
 
 What is the purpose of the learning path?
 not really an Oriole
@@ -58,7 +58,7 @@ what are the common points that all implemenatations of inner source share
 what are the minimum points necessary for this thing to actually be inner source (vs. something that just looks like inner source?
 Is there a way that we can split of everything that is necessary and common?
 
-## Share how to get involved in making more training
+### Share how to get involved in making more training
 
 how to make a learning path segment:
 
