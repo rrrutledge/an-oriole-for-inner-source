@@ -1,3 +1,14 @@
+# An Oriole for Inner Source
+45 min
+
+# Abstract
+Inner source is the application of open source methodologies to internally-developed software.
+While simple to define, inner source can be difficult to explain and implement successfully.
+This presentation introduces the key terms, concepts, and principles for effective inner sourcing along with explanations and real examples.
+It is content that is accessible to newcomers while at the same time refreshing to those with experience.
+The same information in this presentation is also delivered as an O’Reilly Oriole, available freely at https://www.safaribooksonline.com/oriole/.
+We’ll review the Oriole, how to use it, and other Orioles related to inner source that are on the way.
+
 # Background
 There are many individuals that are excited about inner source.
 They share their experience in [the InnerSource Commons](http://innersourcecommons.org/) and other public locations.
@@ -60,15 +71,3 @@ what the experience of making these learning path segments was actually like
 there is professional help (from O'Reilly) in filiming and editing the videos
 show a little clip of one of the learning path segments
 summary of what we've learned
-
-# Abstract
-
-FYI here is the abstract that attendees have related to this talk:
-
-Inner source is the application of open source methodologies to internally-developed software.
-While simple to define, inner source can be difficult to explain and implement successfully.
-This presentation introduces the key terms, concepts, and principles for effective inner sourcing along with explanations and real examples.
-It is content that is accessible to newcomers while at the same time refreshing to those with experience.
-The same information in this presentation is also delivered as an O’Reilly Oriole, available freely at https://www.safaribooksonline.com/oriole/.
-We’ll review the Oriole, how to use it, and other Orioles related to inner source that are on the way.
-
