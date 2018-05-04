@@ -39,7 +39,7 @@ It is intended for anyone interested in inner source whether novice or expert.
 * It's been a fantastic conference.
 * I'm excited for others not in this room to get the same learning.
 * There's not a one-stop, public location for concrete, approachable, and actionable information on inner source.
-* Inner source is becoming a buzz word.  Need to get ahead of the brand dilution.
+* Inner source is becoming a buzz word.  Need to get ahead of the brand dilution so that people don't try a faux version of inner source and then decide it's not for them without being exposed to inner source done right.
 * PayPal (with Danese coordinating) is funding a publically-accessible set of professionally-produced trainings - an O'Reilly learning path.
 
 ## Learning Path
@@ -77,14 +77,17 @@ It is intended for anyone interested in inner source whether novice or expert.
 
 * There is more training coming.  The same modular, multi-media approach to habits and patterns for success as a contributor, trusted committer, and product owner involved with inner source.
 * There is opportunity to get involved in the production of those future modules.  Lots of ways to be involved:
-  * Speaker (speaking evaluator).  Do the speaking content.  Probably about 20 hours of time.  (2 hours as a review)
-  * Writer (copy reviewer).  Produce the written content.  Probably about 40 hours of time.  (4 hours as a review)
-  * Post-production (also reviewer).  Makin' slides, etc.  Probably about 10 hours of time.  (1 hour as a review)
+  * Speaker.  Produce and give the speaking content.  ~20hr.
+  * Speaking reviewer.  Review and give feedback to the speaker.  ~2hr.
+  * Writer.  Produce the written copy.  ~40hr.
+  * Writing reviewer.  Review and give feedback to the writer.  ~4hr.
+  * Post-production.  Make slides and any other post-production artifacts.  ~10hr.
+  * Post-production reviewer.  Review post-production work.  ~1hr.
 * Share my own experience on being involved in the process.
 
 ## Call to action
 
 * Watch and read the content.
 * Share it with others.
-* Use the terms in your conversation with others.  Doing so should result in conversations and writing that we can all understand more-quick and share and apply more-broadly.
+* Use the terms (and associated diagrams) in your conversation and communication with others.  Doing so should result in conversations and writing that we can all understand more-quick and share and apply more-broadly.
 * Reach out with interest in working on future Learning Path segments.
